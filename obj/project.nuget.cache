@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxWi8Zyf0Ed8KvF1tqQ1kFRcs3/wD0WsLrEmpZysKSsaBx+4x3ora2MdAnpois04FZeOG2Rahosy4rkgiSfIXw==",
+  "dgSpecHash": "JfSytaFalr5n5gOHJ9cM9w0P/F1pC9erh041MZCxPTsJqrbhHMGsu8kShk+DiR5nCUlB1VhE1KM5P03yGw2tpA==",
   "success": true,
-  "projectFilePath": "/root/myapp/myapp.csproj",
+  "projectFilePath": "/root/myapp/quixy-hello/myapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

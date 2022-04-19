@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/root/myapp/myapp.csproj": {}
+    "/root/myapp/quixy-hello/myapp.csproj": {}
   },
   "projects": {
-    "/root/myapp/myapp.csproj": {
+    "/root/myapp/quixy-hello/myapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/root/myapp/myapp.csproj",
+        "projectUniqueName": "/root/myapp/quixy-hello/myapp.csproj",
         "projectName": "myapp",
-        "projectPath": "/root/myapp/myapp.csproj",
+        "projectPath": "/root/myapp/quixy-hello/myapp.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/root/myapp/obj/",
+        "outputPath": "/root/myapp/quixy-hello/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
